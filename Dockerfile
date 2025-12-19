@@ -1,1 +1,1 @@
-FROM n8nio/task-runner-python:latest
+FROM n8nio/n8n-task-runner-python:latest
